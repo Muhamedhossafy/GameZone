@@ -92,8 +92,8 @@ The project uses Tailwind CSS for styling. Modify `tailwind.config.ts` to custom
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-
-Project Maintainer - [Your Name](mailto:your.email@example.com)
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
 
 ---
 
