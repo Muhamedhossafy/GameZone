@@ -3,17 +3,33 @@
 ## 🚀 Project Overview
 
 **Gaming Hub** is a modern gaming platform built with Next.js, featuring a sleek UI and optimized performance. This project utilizes the latest web technologies to deliver an immersive gaming experience.
-## 📸 Screenshots
+# 📸 Project Screenshots
 
-<div align="center">
-  <img src="/public/screenshots/home-page.png" alt="Home Page" width="45%"/>
-  <img src="/public/screenshots/skyrim-game.png" alt="Skyrim Game Page" width="45%"/>  
-  <img src="/public/screenshots/witcher-game.png" alt="Witcher Game Page" width="45%"/>
-  <img src="/public/screenshots/playstation-exclusives.png" alt="PlayStation Exclusives" width="45%"/>
-  <img src="![Uploading iiiiiiiiiiiiiiiiiiiiiiiiii.png…]()
-" alt="Login Page" width="45%"/>
-  <img src="/public/screenshots/register.png" alt="Register Page" width="45%"/>
-</div>
+## 🎮 Gaming Hub Showcase
+
+### 🏠 Home Page
+![Gaming Hub Home](https://github.com/user-attachments/assets/.../home-page.png)  
+*Clean navigation with Games, Wishlist, and Friends sections*
+
+### 🐉 Skyrim Game Page
+![Skyrim Game](https://github.com/user-attachments/assets/.../skyrim-game.png)  
+*Detailed view of Elder Scrolls V: Skyrim with dragonborn lore*
+
+### ⚔️ Witcher 2 Page
+![Witcher 2](https://github.com/user-attachments/assets/.../witcher-game.png)  
+*Game description with mature storyline and combat features*
+
+### 🎮 PlayStation Exclusives
+![PS Exclusives](https://github.com/user-attachments/assets/.../playstation-exclusives.png)  
+*Showcase of Uncharted 4 and God of War: Ragnarök*
+
+### 🔐 Login Page
+![Login](https://github.com/user-attachments/assets/.../login.png)  
+*Secure authentication form with email/password fields*
+
+### 📝 Registration Page
+![Register](https://github.com/user-attachments/assets/.../register.png)  
+*User sign-up form with profile picture upload capability*
 
 ## 📂 Project Structure
 
