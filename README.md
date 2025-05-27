@@ -28,7 +28,8 @@
 *Secure authentication form with email/password fields*
 
 ### 📝 Registration Page
-![Register](https://github.com/user-attachments/assets/.../register.png)  
+(![Sign Up](https://github.com/user-attachments/assets/93fbdf31-5e76-4740-b5e6-5de89096217e)
+)  
 *User sign-up form with profile picture upload capability*
 
 ## 📂 Project Structure
