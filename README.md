@@ -8,28 +8,28 @@
 ## 🎮 Gaming Hub Showcase
 
 ### 🏠 Home Page
-![Gaming Hub Home](https://github.com/user-attachments/assets/.../home-page.png)  
+![HomePage](https://github.com/user-attachments/assets/8f75de61-764c-4878-963f-86aa86a3f44b)
 *Clean navigation with Games, Wishlist, and Friends sections*
 
 ### 🐉 Skyrim Game Page
-![Skyrim Game](https://github.com/user-attachments/assets/.../skyrim-game.png)  
+![SkyrimGame](https://github.com/user-attachments/assets/5406d923-bdad-41c4-a7c0-6262d4136160)
 *Detailed view of Elder Scrolls V: Skyrim with dragonborn lore*
 
 ### ⚔️ Witcher 2 Page
-![Witcher 2](https://github.com/user-attachments/assets/.../witcher-game.png)  
+![Witcher2](https://github.com/user-attachments/assets/fd86ce0e-f009-4a43-9be7-0fc3d0669f7a)
 *Game description with mature storyline and combat features*
 
 ### 🎮 PlayStation Exclusives
-![PS Exclusives](https://github.com/user-attachments/assets/.../playstation-exclusives.png)  
+![Playstation  Execlusives](https://github.com/user-attachments/assets/39346499-3dfd-48a0-bc8f-244169a927bf)
 *Showcase of Uncharted 4 and God of War: Ragnarök*
 
 ### 🔐 Login Page
-![Login](https://github.com/user-attachments/assets/.../login.png)  
+![Login](https://github.com/user-attachments/assets/ec4433f7-30a9-4287-b014-8b4f26eafe11)
 *Secure authentication form with email/password fields*
 
 ### 📝 Registration Page
-(![Sign Up](https://github.com/user-attachments/assets/93fbdf31-5e76-4740-b5e6-5de89096217e)
-)  
+![Sign Up](https://github.com/user-attachments/assets/93fbdf31-5e76-4740-b5e6-5de89096217e)
+ 
 *User sign-up form with profile picture upload capability*
 
 ## 📂 Project Structure
