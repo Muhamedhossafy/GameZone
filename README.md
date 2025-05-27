@@ -10,7 +10,8 @@
   <img src="/public/screenshots/skyrim-game.png" alt="Skyrim Game Page" width="45%"/>  
   <img src="/public/screenshots/witcher-game.png" alt="Witcher Game Page" width="45%"/>
   <img src="/public/screenshots/playstation-exclusives.png" alt="PlayStation Exclusives" width="45%"/>
-  <img src="/public/screenshots/login.png" alt="Login Page" width="45%"/>
+  <img src="![Uploading iiiiiiiiiiiiiiiiiiiiiiiiii.png…]()
+" alt="Login Page" width="45%"/>
   <img src="/public/screenshots/register.png" alt="Register Page" width="45%"/>
 </div>
 
