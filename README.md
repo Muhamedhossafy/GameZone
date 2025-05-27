@@ -3,9 +3,7 @@
 ## 🚀 Project Overview
 
 **Gaming Hub** is a modern gaming platform built with Next.js, featuring a sleek UI and optimized performance. This project utilizes the latest web technologies to deliver an immersive gaming experience.
-# 📸 Project Screenshots
-
-## 🎮 Gaming Hub Showcase
+## 📸 Project Screenshots
 
 ### 🏠 Home Page
 ![HomePage](https://github.com/user-attachments/assets/8f75de61-764c-4878-963f-86aa86a3f44b)
