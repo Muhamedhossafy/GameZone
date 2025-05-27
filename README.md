@@ -3,6 +3,16 @@
 ## 🚀 Project Overview
 
 **Gaming Hub** is a modern gaming platform built with Next.js, featuring a sleek UI and optimized performance. This project utilizes the latest web technologies to deliver an immersive gaming experience.
+## 📸 Screenshots
+
+<div align="center">
+  <img src="/public/screenshots/home-page.png" alt="Home Page" width="45%"/>
+  <img src="/public/screenshots/skyrim-game.png" alt="Skyrim Game Page" width="45%"/>  
+  <img src="/public/screenshots/witcher-game.png" alt="Witcher Game Page" width="45%"/>
+  <img src="/public/screenshots/playstation-exclusives.png" alt="PlayStation Exclusives" width="45%"/>
+  <img src="/public/screenshots/login.png" alt="Login Page" width="45%"/>
+  <img src="/public/screenshots/register.png" alt="Register Page" width="45%"/>
+</div>
 
 ## 📂 Project Structure
 
